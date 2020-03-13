@@ -7341,7 +7341,7 @@ section.main {
       .faq-wrapper .item .item-header h5 {
         padding: 0;
         font-size: 18px; } }
-    .faq-wrapper .item .item-header h5 > div {
+    .faq-wrapper .item .item-header h5 > span {
       display: flex;
       cursor: pointer; }
     .faq-wrapper .item .item-header h5 button {
